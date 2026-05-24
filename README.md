@@ -15,4 +15,4 @@ This project demonstrates a lightweight pattern for research data release engine
 
 The goal is not to replace domain-specific scientific tools. The goal is to show how research software can make public datasets easier to inspect, reproduce, and reuse.
 
-![CI](https://github.com/cwru-yash/open-research-data-release-kit/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/cwru-yash/open-research-data-release-kit/actions/workflows/ci.yaml/badge.svg)
